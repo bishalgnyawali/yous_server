@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/bishalgnyawali/yous_server#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "heroku": "^7.42.13",
+    "node-url-shortener": "^1.1.10"
   }
 }
